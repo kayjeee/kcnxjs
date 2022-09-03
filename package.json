@@ -1,0 +1,46 @@
+{
+  "private": true,
+  "description": "ke frontend ya rona.e bereka le k.c ",
+  "repository": "https://github.com/kcnextjs.git",
+  "name": "kcnextjs-app",
+  "version": "2.0.0",
+  "bugs": {
+    "url": "https://github.com/nextauthjs/next-auth/issues"
+  },
+   "homepage": "https://next-auth-example.vercel.app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "kagiso sebogodi <kagiso.killagram@gmail.com>",
+  "contributors": [
+    "kamogelo myeza <kagomelomyeza@gmail.com>"
+  ],
+  "dependencies": {
+    "@react-keycloak/web": "^3.4.0",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "keycloak-js": "^17.0.0",
+    "next": "latest",
+    "next-auth": "latest",
+    "nodemailer": "^6",
+    "react": "^18.2.0",
+    "react-bootstrap": "^1.4.0",
+    "react-content-shimmer": "^2.2.6",
+    "react-dom": "^18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-paginate": "^8.1.3",
+    "react-query": "^3.33.5",
+    "react-responsive-pagination": "^1.6.0",
+    "react-shimmer-effects": "^1.0.2",
+    "rsuite": "^5.16.1",
+    "styled-components": "5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17",
+    "@types/react": "^18.0.15",
+    "@vlsergey/react-bootstrap-pagination": "^3.2.1",
+    "typescript": "^4"
+  }
+}
