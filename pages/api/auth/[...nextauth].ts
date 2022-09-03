@@ -51,7 +51,7 @@ export const authOptions: NextAuthOptions = {
     }),
     KeycloakProvider({
       clientId: 'nextjsapp',
-      clientSecret: "Qf1dGzZvUUQER5EzlFG8n81XEnJ9i5tM",
+      clientSecret: "###################",
       issuer:'http://localhost:8080/realms/nextjsfrontend',
     }), 
     GithubProvider({
